@@ -2,16 +2,16 @@ const servicesData = [
     {
         title: "Frontend Development",
         category: "frontend",
-        description: ['Frontend ipsum dolor sit amet consectetur adipisicing elit.Beatae quaerat officiam maxime ullam. Distinctio voluptate officia voluptas unde debitis quia corporis doloribus labore vero? Soluta dolorum sapiente dolores libero accusantium.','Consectetur adipisicing elit. Autem tempora vitae magni sint hic non consectetur voluptatum accusamus, est dicta commodi, possimus laborum nam deserunt blanditiis ratione sit iste in, quisquam corporis quod voluptates voluptas natus. Optio doloremque, at nisi voluptas sapiente quidem expedita mollitia itaque tempra vero deleniti error, quod ipsam officiis dicta facere culpa reprehenderit provident animi. Architecto?','Dolor sit amet consectetur adipisicing elit. Id voluptatum suscipit voluptatibus ex illo porro similique, dicta dignissimos facillis? Illo.']
+        description: ['O profissional desenvolvedor front-end é o responsável por colocar em prática, através de códigos, o design de um site ou interface.Enquanto o web design projeta o visual de um site, o desenvolvimento front-end implementa esse design através de códigos, como HTML, CSS e JavaScript. Ou seja, é o front-end que coloca “para funcionar” toda a parte visual de uma interface, como a página de um site ou de um aplicativo.O front-end também deve ser capaz de se “comunicar” com a linguagem utilizada no back-end, que é a parte estrutural de sites e plataformas. Dessa forma, o visual de uma interface conseguirá ter suas funções correspondidas, como quando clicamos em um botão de “enviar mensagem” e a mensagem realmente é enviada. Podemos dizer que tudo o que um usuário vê, interage ou clica é fruto do trabalho de um desenvolvedor front-end, que deve garantir que o site ou interface funcione corretamente e siga um design padrão em todos os dispositivos.']
     },
     {
         title: "Backend Development",
         category: "backend",
-        description:['Backend ratione sit iste in, quisquam corporis quod voluptates voluptas natus. Optio doloremque, at nisi voluptas sapiente quidem expedita mollitia itaque tempora vero deleniti error, quod ipsam officiis dicta facere culpa reprehenderit provident animi. Architecto?','Dolor sit amet consectetur adipisicing elit. Id voluptatum suscipit voluptatibus','Autem tempora vitae magni sint hic non consectetur voluptatum accusamus, est dicta commodi, possimus laborum nam deserunt blanditiis ratione sit iste in, quisquam corporis quod voluptates voluptas natus. Optio doloremque, at nisi voluptas sapiente quidem expedita mollitia itaque tempora vero deleniti error, quod ipsam officiis dicta facere culpa reprehenderit provident anim. Architecto? Dolor sit amet consectetur adipisicing elit. Id voluptatum adipisicing elit. Beatae quaerat officia maxime ullam. Distinctio voluptate officia voluptas unde debitis quia corporis doloribus labore vero Soluta dolorum sap9iente doloreslibero']
+        description:[]
     },
     {
         title: "Fullstack Development",
         category: "fullstack",
-        description: ['Fullstack consectetu adipidicing elit. Beatae quaerat officia maxime ullam.Distinctio voluptate officia voluptas unde debitis quia corporis doloribus labore vero?','Quisquam corporis quod voluptates voluptas natus. Optio doloremque, at nisi voluptas sapiente quidem expedita mollitia itaque tempora vero deleniti error, quod ipsam officiis dicta facere culpa reprehenderit provident animi. Architecto? Dolor sit','Sir amet consectetur adipidicing elit. Beatae quaerat officia maxime ullam. Distictio voluptate officia voluptas unde debitis quia corporis doloribus labore ver? Soluta dolorum sapiente dolores libero']
+        description: []
     },
 ]
