@@ -24,9 +24,9 @@
      /* --primary-hue: 280; */
      /* --primary-hue: 138; */
      /* --primary-hue: 185; */
-     /* --primary-hue: 358; */
+     /* --primary-hue: 358; --*/
 
-    --primary-hue: 358;
+    --primary-hue: 222;
     --color-primary: hsl(var(--primary-hue), 87%, 44%);
     --color-nav-bg: hsl(var(--primary-hue), 0%, 100%, 0.4);
     --color-gray-100: hsl(var(--primary-hue), 0%, 100%);
